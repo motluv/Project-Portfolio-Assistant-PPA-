@@ -13,11 +13,11 @@ Advanced Career Tools:** Offering a personalized resume builder, straight forwar
 
 🆕 What's New in PPA 1.5:
 
-Interactive Mock Interviews
-Education and Certification Guide
-Customized Study Plan Generator
-Academic Project Planning & Management
-Scholarship and Research Grant Finder
+Interactive Mock Interviews -
+Education and Certification Guide -
+Customized Study Plan Generator -
+Academic Project Planning & Management -
+Scholarship and Research Grant Finder -
 --
 PPA is designed specifically for tech professionals and students who want to take their careers and academics into hyperdrive - no coding required! It serves as your personal AI ally for everything from building your portfolio, finding scholarships, acing interviews, learning reinforcement, and more...
 
